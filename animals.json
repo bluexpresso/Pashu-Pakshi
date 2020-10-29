@@ -3,7 +3,7 @@
     "mass": "Male: 1,100 kg (Adult, Bull), Female: 720 kg (Adult, Cow)",
     "id": "a1",
     "image": "",
-    "diet": "Herbivorous",
+    "extraInfo": "Herbivorous",
     "likesToEat": [
       "grass",
       "grains"
@@ -16,7 +16,7 @@
     "mass": "Male 190 kg (Adult), Female : 130 kg (Adult)",
     "id": "a2",
     "image": "",
-    "diet": "Carnivores",
+    "extraInfo": "Carnivores",
     "likesToEat": [
       "zebra",
       "grains"
@@ -29,7 +29,7 @@
     "mass": "White rhinoceros: 2,300 kg, Black rhinoceros: 800 – 1,400 kg, Indian rhinoceros: 2,200 kg",
     "id": "a3",
     "image": "",
-    "diet": "Carnivores",
+    "extraInfo": "Carnivores",
     "likesToEat": [
       "leaves",
       "fruits"
@@ -42,7 +42,7 @@
     "mass": "Spotted hyena: 44 – 64 kg, Striped hyena: 22 – 55 kg, Brown hyena: 40 – 44 kg",
     "id": "a4",
     "image": "",
-    "diet": "Carnivores",
+    "extraInfo": "Carnivores",
     "likesToEat": [
       "left over meat"
     ],
@@ -54,7 +54,7 @@
     "mass": "380 – 1,000 kg (Adult)",
     "id": "a5",
     "image": "",
-    "diet": "Herbivorous",
+    "extraInfo": "Herbivorous",
     "likesToEat": [
       "grass",
       "hay"
@@ -67,7 +67,7 @@
     "mass": "Polar bear: 450 kg, Giant panda: 70 – 100 kg",
     "id": "a6",
     "image": "",
-    "diet": "Herbivorous",
+    "extraInfo": "Herbivorous",
     "likesToEat": [
       "berries",
       "insects"
@@ -80,7 +80,7 @@
     "mass": "Polar bear: 450 kg, Giant panda: 70 – 100 kg",
     "id": "a7",
     "image": "",
-    "diet": "omnivorous",
+    "extraInfo": "omnivorous",
     "likesToEat": [
       "berries",
       "insects"
@@ -93,7 +93,7 @@
     "mass": "Lion-tailed macaque: 2 – 10 kg, Barbary macaque: 14 kg",
     "id": "a8",
     "image": "",
-    "diet": "omnivorous",
+    "extraInfo": "omnivorous",
     "likesToEat": [
       "seeds",
       "crabs"
@@ -104,9 +104,9 @@
   },
   {
     "mass": "Male: 160 – 180 kg (Adult), Female: 80 – 120 kg (Adult)",
-    "id": "a8",
+    "id": "a9",
     "image": "",
-    "diet": "Herbivorous",
+    "extraInfo": "Herbivorous",
     "likesToEat": [
       "herbs",
       "grasses"
@@ -117,9 +117,9 @@
   },
   {
     "mass": "Male: 30 – 80 kg (Adult), Female: 23 – 55 kg (Adult)",
-    "id": "a9",
+    "id": "a10",
     "image": "",
-    "diet": "omnivorous",
+    "extraInfo": "omnivorous",
     "likesToEat": [
       "deer",
       "elk"
@@ -130,9 +130,9 @@
   },
   {
     "mass": "Northern giraffe: 800 kg",
-    "id": "a10",
+    "id": "a11",
     "image": "",
-    "diet": "Herbivorous",
+    "extraInfo": "Herbivorous",
     "likesToEat": [
       "Acacia"
     ],
