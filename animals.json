@@ -27,7 +27,7 @@
 	{
 		"mass": "White rhinoceros: 2,300 kg, Black rhinoceros: 800 – 1,400 kg, Indian rhinoceros: 2,200 kg",
 		"id": "a3",
-		"image": "",
+		"image": "https://github.com/bluexpresso/Pashu-Pakshi/blob/afcdcce35a3c13d69603a7aa2ad8692115aa7839/d288fdf9-a63e-4fa0-a0b8-e5e85069c249-Rhino.Promo.01.jpg",
 		"extraInfo": "Carnivores",
 		"likesToEat": [
 			"leaves",
