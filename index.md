@@ -1,37 +1,142 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bluexpresso/Pashu-Pakshi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bluexpresso/Pashu-Pakshi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[{
+		"mass": "Male: 1,100 kg (Adult, Bull), Female: 720 kg (Adult, Cow)",
+		"id": "a1",
+		"image": "",
+		"extraInfo": "Herbivorous",
+		"likesToEat": [
+			"grass",
+			"grains"
+		],
+		"name": "Cow",
+		"life_span": "18-22 years",
+		"scientific_name": "Bos taurus"
+	},
+	{
+		"mass": "Male 190 kg (Adult), Female : 130 kg (Adult)",
+		"id": "a2",
+		"image": "",
+		"extraInfo": "Carnivores",
+		"likesToEat": [
+			"zebra",
+			"grains"
+		],
+		"name": "Lion",
+		"life_span": "10-14 years",
+		"scientific_name": "Panthera leo"
+	},
+	{
+		"mass": "White rhinoceros: 2,300 kg, Black rhinoceros: 800 – 1,400 kg, Indian rhinoceros: 2,200 kg",
+		"id": "a3",
+		"image": "",
+		"extraInfo": "Carnivores",
+		"likesToEat": [
+			"leaves",
+			"fruits"
+		],
+		"name": "Rhinoceros",
+		"life_span": "White rhinoceros: 40 – 50 years, Black rhinoceros: 35 – 50 years, Indian rhinoceros: 35 – 45 years",
+		"scientific_name": "Rhinocerotidae"
+	},
+	{
+		"mass": "Spotted hyena: 44 – 64 kg, Striped hyena: 22 – 55 kg, Brown hyena: 40 – 44 kg",
+		"id": "a4",
+		"image": "",
+		"extraInfo": "Carnivores",
+		"likesToEat": [
+			"left over meat"
+		],
+		"name": "Hyena",
+		"life_span": "Spotted hyena: 12 years, Striped hyena: 12 years",
+		"scientific_name": "Hyaenidae"
+	},
+	{
+		"mass": "380 – 1,000 kg (Adult)",
+		"id": "a5",
+		"image": "",
+		"extraInfo": "Herbivorous",
+		"likesToEat": [
+			"grass",
+			"hay"
+		],
+		"name": "Hyena",
+		"life_span": "25 – 30 years",
+		"scientific_name": "Equus caballus"
+	},
+	{
+		"mass": "Polar bear: 450 kg, Giant panda: 70 – 100 kg",
+		"id": "a6",
+		"image": "",
+		"extraInfo": "Herbivorous",
+		"likesToEat": [
+			"berries",
+			"insects"
+		],
+		"name": "Bear",
+		"life_span": "Giant panda: 20 years",
+		"scientific_name": "Ursidae"
+	},
+	{
+		"mass": "Polar bear: 450 kg, Giant panda: 70 – 100 kg",
+		"id": "a7",
+		"image": "",
+		"extraInfo": "omnivorous",
+		"likesToEat": [
+			"berries",
+			"insects"
+		],
+		"name": "Bear",
+		"life_span": "Giant panda: 20 years",
+		"scientific_name": "Ursidae"
+	},
+	{
+		"mass": "Lion-tailed macaque: 2 – 10 kg, Barbary macaque: 14 kg",
+		"id": "a8",
+		"image": "",
+		"extraInfo": "omnivorous",
+		"likesToEat": [
+			"seeds",
+			"crabs"
+		],
+		"name": "Macaque",
+		"life_span": "Lion-tailed macaque: 20 years, Japanese macaque: 27 years",
+		"scientific_name": "Macaca"
+	},
+	{
+		"mass": "Male: 160 – 180 kg (Adult), Female: 80 – 120 kg (Adult)",
+		"id": "a9",
+		"image": "",
+		"extraInfo": "Herbivorous",
+		"likesToEat": [
+			"herbs",
+			"grasses"
+		],
+		"name": "Reindeer",
+		"life_span": "15 to 18 years",
+		"scientific_name": "Rangifer tarandus"
+	},
+	{
+		"mass": "Male: 30 – 80 kg (Adult), Female: 23 – 55 kg (Adult)",
+		"id": "a10",
+		"image": "",
+		"extraInfo": "omnivorous",
+		"likesToEat": [
+			"deer",
+			"elk"
+		],
+		"name": "Wolf",
+		"life_span": "6 – 8 years (In the wild)",
+		"scientific_name": "Canis lupus"
+	},
+	{
+		"mass": "Northern giraffe: 800 kg",
+		"id": "a11",
+		"image": "",
+		"extraInfo": "Herbivorous",
+		"likesToEat": [
+			"Acacia"
+		],
+		"name": "Giraffe",
+		"life_span": "26 years",
+		"scientific_name": "Giraffa"
+	}
+]
