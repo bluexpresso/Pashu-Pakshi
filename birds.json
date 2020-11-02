@@ -1,0 +1,144 @@
+[
+  {
+    "mass": " Bald eagle: 3 – 6.3 kg, Golden eagle: 3 – 7 kg",
+    "id": "b1",
+    "image": "",
+    "extraInfo": "Wingspan: Bald eagle: 1.8 – 2.3 m, Golden eagle: 1.8 – 2.3 m",
+    "likesToEat": [
+      "mouse",
+      "grouse"
+    ],
+    "name": "Eagle",
+    "life_span": " Bald eagle: 20 years, Crowned eagle: 14 years",
+    "scientific_name": "Haliaeetus leucocephalus"
+  },
+  {
+    "mass": "Marquesan imperial pigeon: 900 g, Western crowned pigeon: 2.1 kg",
+    "id": "b2",
+    "image": "",
+    "extraInfo": "Length: Marquesan imperial pigeon: 55 cm, Western crowned pigeon: 70 cm, Dwarf fruit dove: 13 – 15 cm",
+    "likesToEat": [
+      "grains",
+      "seeds"
+    ],
+    "name": "Pigeon",
+    "life_span": "6 years",
+    "scientific_name": "Columbidae"
+  },
+  {
+    "mass": "Male: 120 kg (East African race), Female: 100 kg (East African race)",
+    "id": "b3",
+    "image": "",
+    "extraInfo": "Wingspan: 2 m (Adult)",
+    "likesToEat": [
+      "roots",
+      "insects"
+    ],
+    "name": "Common ostrich",
+    "life_span": "50-75 years",
+    "scientific_name": "Struthio camelus"
+  },
+  {
+    "mass": "Kakapo: 2 – 4 kg, Hyacinth macaw: 1.2 – 1.7 kg, Buff-faced pygmy parrot: 12 g",
+    "id": "b4",
+    "image": "",
+    "extraInfo": "Hyacinth macaw: 100 cm, Buff-faced pygmy parrot: 8.6 cm",
+    "likesToEat": [
+      "nuts",
+      "fruits"
+    ],
+    "name": "Parrot",
+    "life_span": "Kakapo: 95 years, Hyacinth macaw: 50 years",
+    "scientific_name": "Psittaciformes"
+  },
+  {
+    "mass": "Barn owl: 430 – 620 g, Snowy owl: 2 kg",
+    "id": "b5",
+    "image": "",
+    "extraInfo": "Barn owl: 32 – 40 cm, Snowy owl: 63 – 73 cm",
+    "likesToEat": [
+      "mice",
+      "fish"
+    ],
+    "name": "Owl",
+    "life_span": "~25 years",
+    "scientific_name": "Strigiformes"
+  },
+  {
+    "mass": "Bee hummingbird: 1.6 – 2 g",
+    "id": "b6",
+    "image": "",
+    "extraInfo": "Bee hummingbird: 5 – 6.1 cm",
+    "likesToEat": [
+      "spiders",
+      "insects"
+    ],
+    "name": "Hummingbird",
+    "life_span": "3 – 5 years",
+    "scientific_name": "Trochilidae"
+  },
+  {
+    "mass": "European herring gull: 1 – 1.5 kg, Black-headed gull: 280 g",
+    "id": "b7",
+    "image": "",
+    "extraInfo": "Clutch size: European herring gull: 2 – 4, Great black-backed gull: 1 – 3, Little gull: 2 – 6, Swallow-tailed gull: 1",
+    "likesToEat": [
+      "fish",
+      "rodents"
+    ],
+    "name": "Gull",
+    "life_span": "49 years",
+    "scientific_name": "Laridae"
+  },
+  {
+    "mass": "0.72 – 1.6 kg (Adult)",
+    "id": "b8",
+    "image": "",
+    "extraInfo": "Wingspan: Mallard: 81 – 98 cm",
+    "likesToEat": [
+      "Zucchini",
+      "peas"
+    ],
+    "name": "Duck",
+    "life_span": "Mallard: 5 – 10 years",
+    "scientific_name": "Anas platyrhynchos"
+  },
+  {
+    "mass": "Turkey vulture: 1.5 kg, Black vulture: 1.2 – 1.9 kg",
+    "id": "b9",
+    "image": "",
+    "extraInfo": "Black vulture: 1.3 – 1.7 m, Griffon vulture: 2.3 – 2.8 m, Red-headed vulture: 2 – 2.6 m",
+    "likesToEat": [
+      "carrion"
+    ],
+    "name": "Vulture",
+    "life_span": "Black vulture: 10 years, King vulture: 30 years",
+    "scientific_name": "Aegypius monachus"
+  },
+  {
+    "mass": "0.69 – 2 kg (Adult)",
+    "id": "b10",
+    "image": "",
+    "extraInfo": "Wingspan: 100 – 150 cm (Adult)",
+    "likesToEat": [
+      "eggs",
+      "berries"
+    ],
+    "name": "Common Raven",
+    "life_span": "10 – 15 years (In the wild)",
+    "scientific_name": "Corvus corax"
+  },
+  {
+    "mass": "Emperor penguin: 23 kg, Little penguin: 1.5 kg, Galapagos penguin: 2.5 kg",
+    "id": "b11",
+    "image": "",
+    "extraInfo": "Height: Emperor penguin: 1.1 – 1.3 m, Little penguin: 30 – 35 cm, Galapagos penguin: 49 – 53 cm",
+    "likesToEat": [
+      "krill",
+      "squid"
+    ],
+    "name": "Penguin",
+    "life_span": "Emperor penguin: 20 years, Little penguin: 6 years",
+    "scientific_name": "Spheniscidae"
+  } 
+]
